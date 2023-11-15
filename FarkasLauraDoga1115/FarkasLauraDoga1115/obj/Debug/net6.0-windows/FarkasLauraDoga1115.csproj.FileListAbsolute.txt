@@ -1,0 +1,16 @@
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\FarkasLauraDoga1115.Form1.resources
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\FarkasLauraDoga1115.csproj.GenerateResource.cache
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\FarkasLauraDoga1115.GeneratedMSBuildEditorConfig.editorconfig
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\FarkasLauraDoga1115.AssemblyInfoInputs.cache
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\FarkasLauraDoga1115.AssemblyInfo.cs
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\FarkasLauraDoga1115.csproj.CoreCompileInputs.cache
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\bin\Debug\net6.0-windows\FarkasLauraDoga1115.exe
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\bin\Debug\net6.0-windows\FarkasLauraDoga1115.deps.json
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\bin\Debug\net6.0-windows\FarkasLauraDoga1115.runtimeconfig.json
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\bin\Debug\net6.0-windows\FarkasLauraDoga1115.dll
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\bin\Debug\net6.0-windows\FarkasLauraDoga1115.pdb
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\FarkasLauraDoga1115.dll
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\refint\FarkasLauraDoga1115.dll
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\FarkasLauraDoga1115.pdb
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\FarkasLauraDoga1115.genruntimeconfig.cache
+H:\programozás 2023 2024\FarkasLauraDoga1115\FarkasLauraDoga1115\obj\Debug\net6.0-windows\ref\FarkasLauraDoga1115.dll
